@@ -29,7 +29,7 @@ You may also need to install `poppler` to handle PDF rendering:
 ### 1. Clone the repository or download the script:
 
 ```bash
-git clone https://github.com/kelvin-kahuho/pdf-to-png-converter.git
+git clone https://github.com/kelvin-kahuho/Pdf-to-Image-Converter.git
 cd pdf-to-png-converter
 ```
 
